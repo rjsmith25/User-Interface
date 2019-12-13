@@ -193,7 +193,7 @@ h5 {
 .header-info .content.col-1 {
   display: inline-block;
   text-align: center;
-  margin-bottom: 100px;
+  vertical-align: 50px;
 }
 
 .header-info .content.col-2 {
